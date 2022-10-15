@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "http://178.128.102.187/static/css/main.8837d6fd.css",
-    "main.js": "http://178.128.102.187/static/js/main.b828bd8d.js",
+    "main.css": "http://178.128.102.187/static/css/main.2913145e.css",
+    "main.js": "http://178.128.102.187/static/js/main.c40cda7b.js",
     "static/js/27.082ac9bf.chunk.js": "http://178.128.102.187/static/js/27.082ac9bf.chunk.js",
     "static/media/Nioicon.svg": "http://178.128.102.187/static/media/Nioicon.3a683679c4d0ec1b9f41.svg",
     "static/media/Nioicon.eot": "http://178.128.102.187/static/media/Nioicon.9262cde92d7db9454cc9.eot",
@@ -65,7 +65,7 @@
     "index.html": "http://178.128.102.187/index.html"
   },
   "entrypoints": [
-    "static/css/main.8837d6fd.css",
-    "static/js/main.b828bd8d.js"
+    "static/css/main.2913145e.css",
+    "static/js/main.c40cda7b.js"
   ]
 }
