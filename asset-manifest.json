@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba61f3dd.css",
-    "main.js": "/static/js/main.bebe6ed4.js",
+    "main.css": "/static/css/main.fa22f22a.css",
+    "main.js": "/static/js/main.306ee9fd.js",
     "static/js/27.ce02a753.chunk.js": "/static/js/27.ce02a753.chunk.js",
     "static/media/Nioicon.svg": "/static/media/Nioicon.3a683679c4d0ec1b9f41.svg",
+    "static/media/loading.gif": "/static/media/loading.1a17a7edec20faac34f1.gif",
     "static/media/SF-Pro-Text-Bold.ttf": "/static/media/SF-Pro-Text-Bold.9dae2991f4fb30a5f7e0.ttf",
     "static/media/SF-Pro-Text-Medium.ttf": "/static/media/SF-Pro-Text-Medium.8427da5cd7e9962d404c.ttf",
     "static/media/SF-Pro-Text-Regular.ttf": "/static/media/SF-Pro-Text-Regular.90da7ab18293ca42e335.ttf",
     "static/media/Nioicon.eot": "/static/media/Nioicon.9262cde92d7db9454cc9.eot",
     "static/media/Nioicon.woff": "/static/media/Nioicon.08e5ad1d0d414bac92e7.woff",
     "static/media/Nioicon.ttf": "/static/media/Nioicon.2223262e97e2128073db.ttf",
-    "static/media/SFPRODISPLAYREGULAR.OTF": "/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
     "static/media/video-a.jpg": "/static/media/video-a.b85326d290757c63e4ed.jpg",
     "static/media/slide-a.jpg": "/static/media/slide-a.1727dc5d2d25473a8354.jpg",
     "static/media/Roboto-Medium.eot": "/static/media/Roboto-Medium.f9f0c87146a33023da7e.eot",
@@ -72,7 +72,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ba61f3dd.css",
-    "static/js/main.bebe6ed4.js"
+    "static/css/main.fa22f22a.css",
+    "static/js/main.306ee9fd.js"
   ]
 }
